@@ -1,0 +1,8 @@
+eurovision-radio/
+├── index.html
+├── styles.css
+├── script.js
+├── audio/
+└── admin/
+    ├── index.html
+    └── script.js
