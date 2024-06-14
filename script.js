@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", () => {
     const schedule = [
-        { time: "10:00", song: "Song A - 2009", description: "Description of Song A" },
-        { time: "11:00", song: "Song B - 2010", description: "Description of Song B" },
+        { time: "10:00-12:00", All eurovision songs: "2024", description: "Description of Song A" },
+        { time: "12:00-14:00", All eurovision songs: "2023", description: "Description of Song B" },
         // Dodaj więcej wpisów według potrzeb
     ];
 
